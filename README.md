@@ -70,7 +70,6 @@ print("\nPredictions:\n",y_pred[:5])
 
 ## Output:
 
-
 ![Screenshot 2025-03-07 094758](https://github.com/user-attachments/assets/58fd8e56-1564-4123-9bbb-aeb1ab14b070)
 
 
